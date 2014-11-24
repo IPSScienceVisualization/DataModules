@@ -1,0 +1,15 @@
+<uniview>
+<name>GAMA Galaxy Survey</name>
+
+<description>Galaxy And Mass Assembly Galaxy Survey</description>
+
+<creator>Prepared by:
+MArk SubbaRao and Dan Tell, data from the GAMA survey team, source code here: http://nbviewer.ipython.org/github/IPSScienceVisualization/python-tutorials/blob/master/Visualizing%20GAMA.ipynb</creator>
+
+<legalinfo></legalinfo>
+
+<version></version>
+
+<creationdate>11/24/2014</creationdate>
+
+</uniview>
